@@ -77,6 +77,7 @@ A curated list of browser-based tools that process data locally — no upload, n
 
 - [24 Free Browser Tools Bundle](https://xueboyang1985.github.io/free-browser-tools/) — All tools above in one collection. PRO Bundle $19.99 lifetime for all 24 tools.
 
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in your browser — no uploads to a server, no signup, fast and private.
 ## Contributing
 
 Know a browser tool that processes locally? PR welcome.
