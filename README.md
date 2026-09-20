@@ -18,6 +18,7 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [PDF Tools](https://xueboyang1985.github.io/pdf-tools/) — Merge, split, convert, extract. 7 tools in one. Uses pdf-lib + jsPDF + pdf.js. Free up to 10 pages, PRO lifetime $9.99.
 - [QuickTools PDF](https://github.com/QuickPDF/QuickTools) — Open-source PDF utilities. Merge, split, compress.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — Self-hosted PDF manipulation suite (requires local server). 50+ operations.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser freelance tools: invoice, quote, timesheet, intake, late-fee, kickoff email (no signup).
 
 ## Image Tools
 
