@@ -30,6 +30,7 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) — SVG optimizer. Removes unnecessary markup.
 - [remove.bg](https://www.remove.bg/) — AI background removal (free tier uploads to cloud; local alternatives exist).
 - [Excalidraw](https://excalidraw.com/) — Hand-drawn style diagramming tool. Collaborative, open source.
+- [File Converter](https://fileontap.com/) — Free browser-local image and PDF converter; files stay on the device, with no upload or account required.
 
 ## Developer Tools
 
