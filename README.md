@@ -47,6 +47,7 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [JSONLint](https://jsonlint.com/) — JSON validator and formatter.
 - [crontab guru](https://crontab.guru/) — Cron schedule expression editor. Visual, instant feedback.
 - [JWT.io](https://jwt.io/) — Debug, verify, and decode JSON Web Tokens.
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) — Compare JSON structures locally in the browser and inspect added, removed or changed values by path. No account required.
 
 ## Text & Productivity
 
