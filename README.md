@@ -25,6 +25,7 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [Image Compressor](https://xueboyang1985.github.io/image-compressor/) — Compress JPG/PNG/WebP via Canvas API. Adjustable quality. Free 5MB, PRO unlimited.
 - [Image Resizer](https://xueboyang1985.github.io/image-resizer/) — Resize by pixels, percentage, or max dimension. Aspect ratio lock.
 - [Image Cropper](https://xueboyang1985.github.io/image-cropper/) — Interactive crop with aspect ratio presets. Touch-friendly.
+- [ImgFlow](https://imgflow.taoliapp.com/en/) — Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). WebAssembly local processing; no upload.
 - [Squoosh](https://squoosh.app/) — Google's image compression tool. Side-by-side comparison. Open source.
 - [Photopea](https://www.photopea.com/) — Full Photoshop-compatible image editor in the browser. PSD, Sketch, XD support.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) — SVG optimizer. Removes unnecessary markup.
